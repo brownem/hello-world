@@ -1,8 +1,6 @@
 /****************** Number evaluator ************************************************
 Determines which of two numbers is larger or smaller, or if they are equal in size 
-Mike Browne
-CompSci 120-13
-Prof. Hong-Sheng Wu
+Michael Browne
 ***********************************************************************************/
 
 #include <stdio.h>

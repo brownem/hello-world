@@ -1,8 +1,6 @@
 /**************************************Number Calc********************************************************
 Takes two numbers and calculates their sum, average, product and mod
-Mike Browne
-CompSci 120-13
-Prof. Hong-Sheng Wu
+Michael Browne
 *********************************************************************************************************/
 
 #include <stdio.h>
