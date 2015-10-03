@@ -1,0 +1,3 @@
+The files contained here are simple examples of some of the work I did in Matlab for my Bachelor's Thesis. These particular files show the data collection and processing for experiments involving a slowly oscilating magnetic field from a torodial Neodymium magnet.
+
+Running the Matlab files will require the Extrema package from the Mathworks File Exchange, which can be found here: http://www.mathworks.com/matlabcentral/fileexchange/12275-extrema-m--extrema2-m

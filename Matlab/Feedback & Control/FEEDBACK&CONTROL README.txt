@@ -1,0 +1,1 @@
+These files are an example of various lab problems covered throughout the course, and their application inside of Matlab
