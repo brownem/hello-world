@@ -1,0 +1,1 @@
+Warning: This will generate an audible tone that starts at a low frequency, and slowly increases in frequency. Probably don't want to be wearing headphones when you run this one.
